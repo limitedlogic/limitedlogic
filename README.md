@@ -1,10 +1,8 @@
 ### **Hello, World! 👋**
 
 
-Programmer, Physics and Geography Lover, and aspiring Airline Pilot! ✈️
-
-Experienced so far with Typescript, PHP and Lua.\
-Still learning the ropes with C++ and Rust 🦀.
+Programmer, physics & geography lover, and pilot! ✈️\
+Experienced with Typescript, Rust, PHP and Godot.
 
 I'll leave you with a quote from Einstein:
 
